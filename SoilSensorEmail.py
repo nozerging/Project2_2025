@@ -42,4 +42,4 @@ while email_count < 4:
     email_count += 1
  
     if email_count < 4:
-        time.sleep(3 * 60 * 60)
+        time.sleep(10800)
